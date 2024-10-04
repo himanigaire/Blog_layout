@@ -22,7 +22,7 @@ A simple and responsive blog layout built using **HTML**, **CSS**, and **JavaScr
 1. **Clone or Download the Repository**:
    - Clone the repository to your local machine using Git:
      ```bash
-     git clone https://github.com/yourusername/simple-blog-layout.git
+     git clone https://github.com/himanigaire/Blog_layout.git
      ```
    - Alternatively, you can download the ZIP file and extract it.
 
