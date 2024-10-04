@@ -24,7 +24,6 @@ A simple and responsive blog layout built using **HTML**, **CSS**, and **JavaScr
      ```bash
      git clone https://github.com/himanigaire/Blog_layout.git
      ```
-   - Alternatively, you can download the ZIP file and extract it.
 
 2. **Open the Project**:
    - Navigate to the project directory and open the `index.html` file in a web browser.
